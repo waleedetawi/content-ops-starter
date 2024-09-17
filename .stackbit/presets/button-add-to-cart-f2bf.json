@@ -1,0 +1,28 @@
+{
+    "model": "Button",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "add to cart",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "rt"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "add to Cart",
+                "altText": "",
+                "url": "/cart",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            "thumbnail": "images/button-add-to-cart-f2bf.png"
+        }
+    ]
+}
