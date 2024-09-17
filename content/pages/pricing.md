@@ -25,6 +25,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Gamingroom_tk700sti-A.webp
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
