@@ -145,7 +145,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Book a Room
         altText: ''
         url: /
         showIcon: false
