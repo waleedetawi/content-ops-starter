@@ -20,7 +20,7 @@ sections:
     type: PricingSection
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: ''
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
