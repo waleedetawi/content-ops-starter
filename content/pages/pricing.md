@@ -100,7 +100,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Matrix Cola Zero
-        subtitle: $ 88 – $ 176
+        subtitle: 0.25 JDs
         image:
           type: ImageBlock
           url: /images/Cola Zero.jpg
