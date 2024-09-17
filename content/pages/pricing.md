@@ -4,7 +4,7 @@ slug: pricing
 sections:
   - title:
       text: STORE
-      color: text-neutral
+      color: text-light
       styles:
         self:
           textAlign: center
