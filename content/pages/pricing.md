@@ -135,7 +135,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Matrix Up
-        subtitle: $117
+        subtitle: 0.25 JDs
         image:
           type: ImageBlock
           url: /images/up.jpg
