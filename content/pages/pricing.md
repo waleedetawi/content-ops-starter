@@ -81,10 +81,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
             textAlign: center
             margin:
               - mt-6
