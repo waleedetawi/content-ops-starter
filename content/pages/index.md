@@ -67,10 +67,11 @@ sections:
       - type: FeaturedItem
         title: Monthly Tournaments
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Test your skills in our exciting monthly tournaments with great prizes
+          and fierce competition.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
