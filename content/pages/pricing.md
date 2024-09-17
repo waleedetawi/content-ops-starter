@@ -169,7 +169,7 @@ sections:
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
-          url: /images/Orange.jpg
+          url: /images/blackfridayoffers-2024-02-24T170428.301_800x.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
