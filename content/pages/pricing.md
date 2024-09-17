@@ -169,7 +169,7 @@ sections:
         subtitle: 0.25 JDs
         image:
           type: ImageBlock
-          url: /images/Orange.jpg
+          url: /images/up zero.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
