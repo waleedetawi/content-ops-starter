@@ -102,7 +102,7 @@ sections:
               - mr-0
       - type: FeaturedItem
         title: Matrix Orange
-        subtitle: $ 88 – $ 176
+        subtitle: 0.25 JDs
         image:
           type: ImageBlock
           url: /images/Orange.jpg
