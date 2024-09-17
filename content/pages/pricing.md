@@ -56,7 +56,7 @@ sections:
               - pl-6
               - pb-6
               - pr-6
-            textAlign: left
+            textAlign: center
             borderRadius: none
             flexDirection: col
             justifyContent: center
