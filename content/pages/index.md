@@ -16,7 +16,7 @@ sections:
       the latest and most popular PS5 titles.
 
     actions:
-      - label: Get started
+      - label: Book a room
         altText: ''
         url: /
         showIcon: false
