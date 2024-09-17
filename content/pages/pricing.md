@@ -92,7 +92,7 @@ sections:
               - mb-0
               - mr-0
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Matrix Orange
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
