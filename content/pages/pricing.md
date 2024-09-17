@@ -21,7 +21,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: soft drinls
       color: text-dark
       styles:
         self:
