@@ -155,6 +155,9 @@ sections:
             style: primary
             elementId: ''
         colors: bg-light-fg-dark
+        styles:
+          self:
+            textAlign: center
     actions: []
     elementId: ''
     variant: three-col-grid
