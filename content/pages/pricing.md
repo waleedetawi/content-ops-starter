@@ -81,6 +81,11 @@ sections:
               - pb-6
               - pr-6
             textAlign: center
+            margin:
+              - mt-6
+              - ml-6
+              - mb-6
+              - mr-6
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
