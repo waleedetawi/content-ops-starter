@@ -134,7 +134,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Matrix Up
         subtitle: $117
         image:
           type: ImageBlock
