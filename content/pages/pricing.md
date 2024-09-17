@@ -66,11 +66,11 @@ sections:
               - mb-0
               - mr-0
       - type: FeaturedItem
-        title: Matrix Orange
+        title: Matrix Cola Zero
         subtitle: 0.25 JDs
         image:
           type: ImageBlock
-          url: /images/Orange.jpg
+          url: /images/Cola Zero.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
@@ -99,11 +99,11 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Matrix Cola Zero
+        title: Matrix Orange
         subtitle: 0.25 JDs
         image:
           type: ImageBlock
-          url: /images/Cola Zero.jpg
+          url: /images/Orange.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
