@@ -99,7 +99,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Matrix Orange
+        title: Matrix Cola Zero
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
