@@ -53,7 +53,7 @@ sections:
           self:
             padding:
               - pt-6
-              - pl-6
+              - pl-2
               - pb-6
               - pr-6
             textAlign: center
