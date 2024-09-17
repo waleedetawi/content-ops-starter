@@ -21,7 +21,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: soft drinls
+      text: soft drinks
       color: text-dark
       styles:
         self:
