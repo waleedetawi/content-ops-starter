@@ -87,10 +87,10 @@ sections:
               - pr-2
             textAlign: center
             margin:
-              - mt-6
-              - ml-6
-              - mb-6
-              - mr-6
+              - mt-1
+              - ml-1
+              - mb-1
+              - mr-1
       - type: FeaturedItem
         title: Faux Fur Throw
         subtitle: $ 88 – $ 176
