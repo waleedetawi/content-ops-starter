@@ -61,10 +61,10 @@ sections:
             flexDirection: col
             justifyContent: center
             margin:
-              - mt-5
-              - ml-5
-              - mb-5
-              - mr-5
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
       - type: FeaturedItem
         title: matrix cola Zero
         subtitle: 0.25 JDs
