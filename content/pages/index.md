@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Gamingroom_tk700sti-A.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
