@@ -56,7 +56,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: G.O.A.T
       color: text-dark
       styles:
         self:
