@@ -122,7 +122,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Comfort & Fun
-        subtitle: Faster
+        subtitle: ''
         text: >+
 
           Our space is designed for ultimate comfort, perfect for both quick
