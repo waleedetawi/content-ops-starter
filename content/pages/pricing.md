@@ -28,6 +28,19 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
+        title: Cotton Knit Throws
+        subtitle: $ 44.99 – $ 90
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+      - type: FeaturedItem
         title: Faux Fur Throw
         subtitle: $ 88 – $ 176
         image:
@@ -51,19 +64,6 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-      - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
