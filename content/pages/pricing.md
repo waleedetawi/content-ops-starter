@@ -100,6 +100,7 @@ sections:
               - ml-0
               - mb-0
               - mr-0
+            flexDirection: row
       - type: FeaturedItem
         title: Matrix Orange
         subtitle: 0.25 JDs
