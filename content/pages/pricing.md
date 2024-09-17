@@ -73,6 +73,13 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-14
+              - pl-14
+              - pb-14
+              - pr-14
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
