@@ -13,7 +13,7 @@ sections:
       type: TitleBlock
     subtitle: order from your room
     plans: []
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
