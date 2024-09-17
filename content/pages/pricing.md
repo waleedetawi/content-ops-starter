@@ -103,7 +103,7 @@ sections:
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
-          url: /images/Orange.jpg
+          url: /images/Cola Zero.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
