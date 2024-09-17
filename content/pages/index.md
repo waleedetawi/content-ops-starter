@@ -123,10 +123,11 @@ sections:
         type: FeaturedItem
       - title: Comfort & Fun
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Our space is designed for ultimate comfort, perfect for both quick
+          sessions and all-day gaming marathons.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
