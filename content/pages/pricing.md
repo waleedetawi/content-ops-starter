@@ -40,7 +40,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Get started
+            label: add to Cart
             altText: ''
             url: /cart
             showIcon: false
