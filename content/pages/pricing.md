@@ -136,31 +136,6 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Matrix Up
-        subtitle: 0.25 JDs
-        image:
-          type: ImageBlock
-          url: /images/up.jpg
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: add to Cart
-            altText: ''
-            url: /cart
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            textAlign: center
-      - type: FeaturedItem
         title: Matrix Orange
         subtitle: $ 88 – $ 176
         image:
