@@ -101,7 +101,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon2.svg
+          url: /images/Bein_sport_logo.png.webp
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
