@@ -160,6 +160,39 @@ sections:
         styles:
           self:
             textAlign: center
+      - type: FeaturedItem
+        title: Matrix Orange
+        subtitle: $ 88 – $ 176
+        image:
+          type: ImageBlock
+          url: /images/Orange.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions:
+          - type: Button
+            label: add to Cart
+            altText: ''
+            url: /cart
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: center
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
     actions: []
     elementId: ''
     variant: three-col-grid
