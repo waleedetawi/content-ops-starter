@@ -28,7 +28,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/shutterstock_373602469.webp
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
