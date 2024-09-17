@@ -111,7 +111,7 @@ sections:
               - pl-0
               - pb-0
               - pr-0
-            textAlign: justify
+            textAlign: center
             borderRadius: none
             flexDirection: col
             justifyContent: center
