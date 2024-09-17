@@ -19,6 +19,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
     type: PricingSection
     backgroundImage:
       type: BackgroundImage
