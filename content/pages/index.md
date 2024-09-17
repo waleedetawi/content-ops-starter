@@ -65,7 +65,7 @@ sections:
     subtitle: Why are we the Best gaming place??
     items:
       - type: FeaturedItem
-        title: mounthly tournamonents
+        title: Monthly Tournaments
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
