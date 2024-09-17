@@ -82,9 +82,9 @@ sections:
           self:
             padding:
               - pt-0
-              - pl-2
-              - pb-2
-              - pr-2
+              - pl-0
+              - pb-0
+              - pr-0
             textAlign: center
             margin:
               - mt-1
