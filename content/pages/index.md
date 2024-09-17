@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: The Best Gaming Place
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      At GOAT , we bring you the best PlayStation 5 gaming experience. Whether
+      you're a solo gamer looking to dive into epic adventures or a group of
+      friends ready for multiplayer action, we have everything you need to enjoy
+      the latest and most popular PS5 titles.
+
     actions:
       - label: Get started
         altText: ''
