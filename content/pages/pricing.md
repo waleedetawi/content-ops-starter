@@ -101,7 +101,7 @@ sections:
               - mb-0
               - mr-0
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-start
       - type: FeaturedItem
         title: Matrix Orange
         subtitle: 0.25 JDs
