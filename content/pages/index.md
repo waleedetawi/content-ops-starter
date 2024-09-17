@@ -96,10 +96,12 @@ sections:
               borderRadius: x-large
       - title: Football Games
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Catch the big football matches while enjoying your favorite games. We
+          offer a great viewing experience with comfortable seating and large
+          screens.
+
         image:
           url: /images/Bein_sport_logo.png.webp
           altText: Featured icon two
