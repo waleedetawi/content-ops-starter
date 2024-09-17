@@ -28,6 +28,32 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
+        title: matrix cola Zero
+        subtitle: 0.25 JDs
+        image:
+          type: ImageBlock
+          url: /images/Cola Zero.jpg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: center
+            margin:
+              - mt-6
+              - ml-6
+              - mb-6
+              - mr-6
+      - type: FeaturedItem
         title: Matrix
         subtitle: 0.25 JDs
         image:
@@ -65,32 +91,6 @@ sections:
               - ml-5
               - mb-5
               - mr-5
-      - type: FeaturedItem
-        title: matrix cola Zero
-        subtitle: 0.25 JDs
-        image:
-          type: ImageBlock
-          url: /images/Cola Zero.jpg
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: center
-            margin:
-              - mt-6
-              - ml-6
-              - mb-6
-              - mr-6
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
