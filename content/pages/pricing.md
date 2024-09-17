@@ -94,7 +94,7 @@ sections:
               - pl-0
               - pb-0
               - pr-0
-            textAlign: center
+            textAlign: left
             margin:
               - mt-0
               - ml-0
