@@ -29,7 +29,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Matrix
-        subtitle: $ 88 – $ 176
+        subtitle: 0.25 JDs
         image:
           type: ImageBlock
           url: /images/cola.jpg
