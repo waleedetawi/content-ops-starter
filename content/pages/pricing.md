@@ -100,7 +100,7 @@ sections:
               - ml-0
               - mb-0
               - mr-0
-            flexDirection: row
+            flexDirection: col
             justifyContent: flex-start
       - type: FeaturedItem
         title: Matrix Orange
