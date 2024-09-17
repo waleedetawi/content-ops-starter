@@ -20,6 +20,7 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+        fontStyle: italic
     type: PricingSection
     backgroundImage:
       type: BackgroundImage
