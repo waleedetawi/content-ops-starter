@@ -62,7 +62,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Why are we the Best gaming place??
     items:
       - type: FeaturedItem
         title: 500k
